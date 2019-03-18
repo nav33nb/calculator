@@ -12,8 +12,9 @@ int add(int num1, int num2)
   return (sum);
 }
 
-int Multiply (int num1, int num2)
+int Multiply_Function (int num1, int num2)
 {
+  //This is the Multiply Function
   return (num1*num2);
 }
 
