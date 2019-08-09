@@ -20,6 +20,7 @@ int add(int num1, int num2){
 
 int div(int num1,int num2){
   //this is div
+  //some other comment
   return num1/num2;
 }
 
