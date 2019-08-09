@@ -15,8 +15,7 @@ int sub(int num1,int num2){
 
 //FUNCTION TO ADD
 int add(int num1, int num2){
-  int sum=num1+num2;
-  return (sum);
+  return num1+num2;
 }
 
 int div(int num1,int num2){
